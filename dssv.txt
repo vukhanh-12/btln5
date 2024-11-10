@@ -1,0 +1,19 @@
+12345
+Nguyen Thi A
+Nam
+1
+A00
+8.0 7.5 6.5 8.0 7.0 7.5
+3
+CNTT
+KeToan
+QuảnTrịKinhDoanh
+67890
+Nguyen Thi B
+Nu
+2
+B00
+7.0 6.5 6.0 7.0 6.5 7.0
+2
+Luật
+KinhTế
